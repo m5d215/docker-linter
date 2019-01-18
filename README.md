@@ -1,5 +1,6 @@
 # docker-linter
 
+![size and layers](https://images.microbadger.com/badges/image/m5d215/linter.svg)
 ![build status](https://img.shields.io/docker/build/m5d215/linter.svg)
 ![automated build](https://img.shields.io/docker/automated/m5d215/linter.svg)
 
