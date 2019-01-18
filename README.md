@@ -7,6 +7,7 @@ Multiple linters in one Docker image.
 
 ## Features
 
+- [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker.javascript)
 - [Prettier](https://prettier.io)
 - [TSLint](https://palantir.github.io/tslint)
 
